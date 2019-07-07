@@ -18,6 +18,7 @@ public class TrangChuController {
 	}
 	@PostMapping("/Login")
 	public String Login(@ModelAttribute User user, ModelMap modelMap) {
+		
 		return "Login";
 	}
 }

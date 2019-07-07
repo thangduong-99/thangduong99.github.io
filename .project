@@ -45,4 +45,26 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/css</name>
+			<type>2</type>
+			<location>C:/Users/THANG/Desktop/spring/bootstrap-3.4.1-dist/css</location>
+		</link>
+		<link>
+			<name>src/main/webapp/fonts</name>
+			<type>2</type>
+			<location>C:/Users/THANG/Desktop/spring/bootstrap-3.4.1-dist/fonts</location>
+		</link>
+		<link>
+			<name>src/main/webapp/image</name>
+			<type>2</type>
+			<location>C:/Users/THANG/Desktop/spring/image</location>
+		</link>
+		<link>
+			<name>src/main/webapp/js</name>
+			<type>2</type>
+			<location>C:/Users/THANG/Desktop/spring/bootstrap-3.4.1-dist/js</location>
+		</link>
+	</linkedResources>
 </projectDescription>
